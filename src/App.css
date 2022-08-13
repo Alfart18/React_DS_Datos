@@ -1,3 +1,53 @@
+.container{
+    background-color: white;
+}
 
-	
+.row{
+    text-align: center;
+}
+
+.col{
+    text-align: center;
+}
+
+.logo_DS{
+    margin-left: 15px;
+}
+
+.logo_Linux{
+    width: 100px;
+    height: 80px;
+    margin-left: 140px;
+}
+
+.logo_HP{
+    width: 100px;
+    height: 80px;
+}
+
+.logo_AMD{
+    width: 100px;
+    height: 80px;
+}
+
+.logo_Asus{
+    width: 100px;
+    height: 80px;
+}
+
+.Logo_Logitech{
+    width: 90px;
+    height: 80px;
+}
+
+.Logo_Windows{
+    width: 80px;
+    height: 80px;
+}
+
+.btn{
+    width: 100px;
+    height: 80px;
+    margin-bottom: 5%;
+}
 
