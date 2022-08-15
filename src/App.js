@@ -56,7 +56,7 @@ function App() {
                         </button>
                     </a>
                     </div>
-                    <div class="col-sm-3"><a href="http://localhost:3000/DS/placa">
+                    <div class="col-sm-3"><a href="http://localhost:3000/DS/graficos">
                         <button type="button" class="btn btn-warning">
                             <div class="inner">
                                 <div class="icons"><i class="fal fa-desktop"></i></div>
@@ -78,7 +78,7 @@ function App() {
                         </button>
                     </a>
                     </div>
-                    <div class="col-sm-3"><a href="http://localhost:3000/DS/placa">
+                    <div class="col-sm-3"><a href="http://localhost:3000/DS/procesos">
                         <button type="button" class="btn btn-warning">
                             <div class="inner">
                                 <div class="icons"><i class="fal fa-chart-line"></i></div>
@@ -126,7 +126,7 @@ function App() {
                         </button>
                     </a>
                     </div>
-                    <div class="col-sm-3"><a href="http://localhost:3000/DS/placa">
+                    <div class="col-sm-3"><a href="http://localhost:3000/DS/wifi">
                         <button type="button" class="btn btn-warning">
                             <div class="inner">
                                 <div class="icons"><i class="bi bi-wifi"></i></div>
