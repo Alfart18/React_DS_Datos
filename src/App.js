@@ -27,7 +27,7 @@ function App() {
             </div>
             <div class="container p-4 my-4 bg-dark text-warning">
                 <div class="row">
-                    <div class="col-sm-3"><a href="http://localhost:3000/DS/placa">
+                    <div class="col-sm-3"><a href="http://192.168.0.81:3000/DS/placa">
                         <button type="button" class="btn btn-warning">
                             <div class="inner">
                                 <div class="icons"><i class="fal fa-server"></i>
@@ -38,7 +38,7 @@ function App() {
                     </a>
                     </div>
 
-                    <div class="col-sm-3"><a href="http://localhost:3000/DS/procesador">
+                    <div class="col-sm-3"><a href="http://192.168.0.81:3000/DS/procesador">
                         <button type="button" class="btn btn-warning">
                             <div class="inner">
                                 <div class="icons"><i class="fal fa-microchip"></i></div>
@@ -47,7 +47,7 @@ function App() {
                         </button>
                     </a>
                     </div>
-                    <div class="col-sm-3"><a href="http://localhost:3000/DS/RAM">
+                    <div class="col-sm-3"><a href="http://192.168.0.81:3000/DS/RAM">
                         <button type="button" class="btn btn-warning">
                             <div class="inner">
                                 <div class="icons"><i class="fal fa-memory"></i></div>
@@ -56,7 +56,7 @@ function App() {
                         </button>
                     </a>
                     </div>
-                    <div class="col-sm-3"><a href="http://localhost:3000/DS/graficos">
+                    <div class="col-sm-3"><a href="http://192.168.0.81:3000/DS/graficos">
                         <button type="button" class="btn btn-warning">
                             <div class="inner">
                                 <div class="icons"><i class="fal fa-desktop"></i></div>
@@ -68,7 +68,7 @@ function App() {
                 </div>
 
                 <div class="row">
-                    <div class="col-sm-3"><a href="http://localhost:3000/DS/sistema">
+                    <div class="col-sm-3"><a href="http://192.168.0.81:3000/DS/sistema">
                         <button type="button" class="btn btn-warning">
                             <div class="inner">
                                 <div class="icons"><i class="bi bi-windows"></i>
@@ -78,7 +78,7 @@ function App() {
                         </button>
                     </a>
                     </div>
-                    <div class="col-sm-3"><a href="http://localhost:3000/DS/procesos">
+                    <div class="col-sm-3"><a href="http://192.168.0.81:3000/DS/procesos">
                         <button type="button" class="btn btn-warning">
                             <div class="inner">
                                 <div class="icons"><i class="fal fa-chart-line"></i></div>
@@ -87,7 +87,7 @@ function App() {
                         </button>
                     </a>
                     </div>
-                    <div class="col-sm-3"><a href="http://localhost:3000/DS/disco">
+                    <div class="col-sm-3"><a href="http://192.168.0.81:3000/DS/disco">
                         <button type="button" class="btn btn-warning">
                             <div class="inner">
                                 <div class="icons"><i class="bi bi-hdd-fill"></i></div>
@@ -96,7 +96,7 @@ function App() {
                         </button>
                     </a>
                     </div>
-                    <div class="col-sm-3"><a href="http://localhost:3000/DS/USB">
+                    <div class="col-sm-3"><a href="http://192.168.0.81:3000/DS/USB">
                         <button type="button" class="btn btn-warning">
                             <div class="inner">
                                 <div class="icons"><i class="bi bi-usb-symbol"></i></div>
@@ -108,7 +108,7 @@ function App() {
                 </div>
 
                 <div class="row">
-                    <div class="col-sm-3"><a href="http://localhost:3000/DS/bios">
+                    <div class="col-sm-3"><a href="http://192.168.0.81:3000/DS/bios">
                         <button type="button" class="btn btn-warning">
                             <div class="inner">
                                 <div class="icons"><i class="fal fa-th-list"></i></div>
@@ -117,7 +117,7 @@ function App() {
                         </button>
                     </a>
                     </div>
-                    <div class="col-sm-3"><a href="http://localhost:3000/DS/red">
+                    <div class="col-sm-3"><a href="http://192.168.0.81:3000/DS/red">
                         <button type="button" class="btn btn-warning">
                             <div class="inner">
                                 <div class="icons"><i class="bi bi-diagram-3-fill"></i></div>
@@ -126,7 +126,7 @@ function App() {
                         </button>
                     </a>
                     </div>
-                    <div class="col-sm-3"><a href="http://localhost:3000/DS/wifi">
+                    <div class="col-sm-3"><a href="http://192.168.0.81:3000/DS/wifi">
                         <button type="button" class="btn btn-warning">
                             <div class="inner">
                                 <div class="icons"><i class="bi bi-wifi"></i></div>
@@ -135,7 +135,7 @@ function App() {
                         </button>
                     </a>
                     </div>
-                    <div class="col-sm-3"><a href="http://localhost:3000/DS/programas">
+                    <div class="col-sm-3"><a href="http://192.168.0.81:3000/DS/programas">
                         <button type="button" class="btn btn-warning">
                             <div class="inner">
                                 <div class="icons"><i class="bi bi-github"></i></div>
