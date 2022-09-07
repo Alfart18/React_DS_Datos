@@ -1,4 +1,5 @@
 import React from "react"
+import './Procesos.css';
 
 function Procesador() {
    return(

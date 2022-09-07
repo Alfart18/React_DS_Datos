@@ -1,0 +1,30 @@
+.Graficos{
+    background-color: black;
+    margin-top: 0%;
+}
+
+.h3{
+    color: #f1c40f;
+    text-align: center;
+    margin-top: 1%;
+}
+
+.h6{
+    color: #f1c40f;
+    text-align: center;
+}
+
+.container{
+    margin-top: 2%;
+    background-color: rgb(0, 0, 0);
+}
+
+.info{
+    color: aliceblue;
+    text-align: center;
+}
+
+.h6c{
+    color: rgb(27, 140, 233);
+    text-align: center;
+}
