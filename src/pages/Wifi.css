@@ -1,0 +1,35 @@
+.Wifi{
+    background-color: black;
+    margin-top: 0%;
+}
+
+.h3{
+    color: rgb(255, 230, 230);
+    text-align: center;
+    margin-top: 1%;
+}
+
+.h6{
+    color: rgb(14, 139, 212);
+    text-align: center;
+}
+
+.container{
+    margin-top: 2%;
+    background-color: rgb(0, 0, 0);
+}
+
+.info{
+    color: aliceblue;
+    text-align: center;
+}
+
+.h62{
+    color: rgb(182, 212, 14);
+    text-align: center;
+}
+
+.h63{
+    color: rgb(204, 100, 4);
+    text-align: center;
+}

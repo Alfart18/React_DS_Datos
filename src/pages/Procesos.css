@@ -1,0 +1,31 @@
+.Procesos{
+    background-color: black;
+    margin-top: 0%;
+}
+
+.h3{
+    color: rgb(255, 230, 230);
+    text-align: center;
+    margin-top: 1%;
+}
+
+.h6{
+    color: rgb(192, 240, 20);
+    text-align: center;
+}
+
+.h61{
+    color: rgb(45, 115, 128);
+    text-align: center;
+}
+
+
+.container{
+    margin-top: 2%;
+    background-color: rgb(0, 0, 0);
+}
+
+.info{
+    color: aliceblue;
+    text-align: center;
+}

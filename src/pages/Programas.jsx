@@ -64,24 +64,46 @@ function Programas() {
                     </div>
                 </div>
                 <div Class="row">
-                <div Class="col-sm-3">
+                    <div Class="col-sm-3">
                         <h6 class="h6">
-                        PostgreSQL<h6 class="info">{Loaded && Programas[0].Postgresql}</h6><br></br>
+                            PostgreSQL<h6 class="info">{Loaded && Programas[0].Postgresql}</h6><br></br>
                         </h6>
                     </div>
                     <div Class="col-sm-3">
                         <h6 class="h6">
-                        MySQL<h6 class="info">{Loaded && Programas[0].Mysql}</h6><br></br>
+                            MySQL<h6 class="info">{Loaded && Programas[0].Mysql}</h6><br></br>
                         </h6>
                     </div>
                     <div Class="col-sm-3">
                         <h6 class="h6">
-                        Python<h6 class="info">{Loaded && Programas[0].Python}</h6><br></br>
+                            Python<h6 class="info">{Loaded && Programas[0].Python}</h6><br></br>
                         </h6>
                     </div>
                     <div Class="col-sm-3">
                         <h6 class="h6">
                             Node<h6 class="info">{Loaded && Programas[0].Node}</h6><br></br>
+                        </h6>
+                    </div>
+                </div>
+                <div Class="row">
+                    <div Class="col-sm-3">
+                        <h6 class="h6">
+                            Mongodb<h6 class="info">{Loaded && Programas[0].Mongodb}</h6><br></br>
+                        </h6>
+                    </div>
+                    <div Class="col-sm-3">
+                        <h6 class="h6">
+                            Yarn<h6 class="info">{Loaded && Programas[0].Yarn}</h6><br></br>
+                        </h6>
+                    </div>
+                    <div Class="col-sm-3">
+                        <h6 class="h6">
+                            Nginx<h6 class="info">{Loaded && Programas[0].Nginx}</h6><br></br>
+                        </h6>
+                    </div>
+                    <div Class="col-sm-3">
+                        <h6 class="h6">
+                            Dotnet<h6 class="info">{Loaded && Programas[0].Dotnet}</h6><br></br>
                         </h6>
                     </div>
                 </div>
