@@ -1,21 +1,15 @@
 .Placa{
     background-color: black;
-    margin-top: 0%;
 }
 
-.h3{
+.h3placa{
     color: rgb(255, 255, 255);
     text-align: center;
     margin-top: 1%;
 }
 
-.h6{
-    color: rgb(14, 212, 31);
-    text-align: center;
-}
-
-.progreso{
-    color: rgb(14, 212, 31);
+.h6placa{
+    color: rgb(196, 243, 24);
     text-align: center;
 }
 
@@ -25,6 +19,6 @@
 }
 
 .info{
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     text-align: center;
 }

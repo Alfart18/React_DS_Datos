@@ -3,22 +3,27 @@
     margin-top: 0%;
 }
 
-.h3{
-    color: rgb(255, 230, 230);
+.h3procesos{
+    color: rgb(255, 255, 255);
     text-align: center;
     margin-top: 1%;
 }
 
-.h6{
+.h3pcpu{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 1%;
+}
+
+.h6procesos{
     color: rgb(192, 240, 20);
     text-align: center;
 }
 
-.h61{
-    color: rgb(45, 115, 128);
+.h6pcpu{
+    color: rgb(24, 137, 243);
     text-align: center;
 }
-
 
 .container{
     margin-top: 2%;

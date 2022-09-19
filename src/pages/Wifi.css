@@ -3,14 +3,14 @@
     margin-top: 0%;
 }
 
-.h3{
+.h3wifi{
     color: rgb(255, 230, 230);
     text-align: center;
     margin-top: 1%;
 }
 
-.h6{
-    color: rgb(14, 139, 212);
+.h6wifi1{
+    color: rgb(192, 240, 20);
     text-align: center;
 }
 
@@ -20,16 +20,16 @@
 }
 
 .info{
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 
-.h62{
-    color: rgb(182, 212, 14);
+.h6wifi2{
+    color: rgb(14, 116, 212);
     text-align: center;
 }
 
-.h63{
-    color: rgb(204, 100, 4);
+.h6wifi3{
+    color: rgb(180, 58, 10);
     text-align: center;
 }

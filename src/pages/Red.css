@@ -3,14 +3,31 @@
     margin-top: 0%;
 }
 
-.h3{
+.h3red{
     color: rgb(255, 230, 230);
     text-align: center;
     margin-top: 1%;
 }
 
-.h6{
-    color: rgb(192, 240, 20);
+.h3inter{
+    color: rgb(10, 92, 235);
+    text-align: center;
+    margin-top: 1%;
+}
+
+.h6inter{
+    color: rgb(10, 92, 235);
+    text-align: center;
+}
+
+.h3contro{
+    color: rgb(235, 194, 10);
+    text-align: center;
+    margin-top: 1%;
+}
+
+.h6contro{
+    color: rgb(235, 194, 10);
     text-align: center;
 }
 
@@ -20,7 +37,7 @@
 }
 
 .info{
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 

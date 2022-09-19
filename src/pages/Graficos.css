@@ -3,14 +3,25 @@
     margin-top: 0%;
 }
 
-.h3{
-    color: #f1c40f;
+.h3monitor{
+    color: #ffffff;
     text-align: center;
     margin-top: 1%;
 }
 
-.h6{
-    color: #f1c40f;
+.h3controlador{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 1%;
+}
+
+.h6monitor{
+    color: rgb(24, 137, 243);
+    text-align: center;
+}
+
+.h6controlador{
+    color: rgb(196, 243, 24);
     text-align: center;
 }
 
@@ -20,11 +31,7 @@
 }
 
 .info{
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 
-.h6c{
-    color: rgb(27, 140, 233);
-    text-align: center;
-}

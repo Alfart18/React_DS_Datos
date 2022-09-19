@@ -3,14 +3,14 @@
     margin-top: 0%;
 }
 
-.h3{
+.h3usb{
     color: rgb(255, 255, 255);
     text-align: center;
     margin-top: 1%;
 }
 
-.h6{
-    color: rgb(14, 212, 31);
+.h6usb{
+    color: rgb(14, 166, 212);
     text-align: center;
 }
 
@@ -24,23 +24,23 @@
     text-align: center;
 }
 
-.h61{
-    color: rgb(14, 123, 212);
+.h61usb{
+    color: rgb(169, 245, 28);
     text-align: center;
 }
 
-.h62{
-    color: rgb(152, 245, 2);
+.h62usb{
+    color: rgb(245, 2, 2);
     text-align: center;
 }
 
-.h63{
-    color: rgb(76, 105, 28);
+.h63usb{
+    color: rgb(67, 51, 212);
     text-align: center;
 }
 
-.h64{
-    color: rgb(230, 53, 29);
+.h64usb{
+    color: rgb(22, 156, 67);
     text-align: center;
 }
 

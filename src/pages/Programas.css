@@ -3,14 +3,14 @@
     margin-top: 0%;
 }
 
-.h3{
+.h3pro{
     color: rgb(255, 255, 255);
     text-align: center;
     margin-top: 1%;
 }
 
-.h6{
-    color: rgb(14, 139, 212);
+.h6pro{
+    color: rgb(196, 243, 24);
     text-align: center;
 }
 
@@ -20,11 +20,7 @@
 }
 
 .info{
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 
-.h6c{
-    color: rgb(14, 123, 212);
-    text-align: center;
-}
