@@ -13,6 +13,7 @@ function Bios() {
             .finally(() => setLoaded(true));
 
     }, []);
+
     return (
             <div className="Bios">
                 <h3 class="h3bios">
