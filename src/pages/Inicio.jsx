@@ -1,7 +1,6 @@
 import React from "react";
 import './Inicio.css';
 import { NavLink } from 'react-router-dom';
-import Generar  from './Generar_xls.jsx';
 
 import logo_DS from '../DS.png';
 import logo_Linux from '../Linux.png';
@@ -150,7 +149,7 @@ function Inicio() {
                     </div>
                 </div>
             </div>
-            <div Class="col-sm-12">
+            {/* <div Class="col-sm-12">
                 <button type="button" Class="bg-success" onClick={Generar}>
                     <div Class="inner">
                         <div Class="icons"><i class="bi bi-file-earmark-excel-fill"></i></div>
@@ -158,7 +157,7 @@ function Inicio() {
                     </div>
                 </button>
  
-            </div>
+            </div> */}
         </div>
     );
 }
